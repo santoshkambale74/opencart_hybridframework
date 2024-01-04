@@ -1,0 +1,2 @@
+cd D:\Advanced Automation Classes\OpenCartProjectByPavan\opencart_hybridframework
+mvn test
